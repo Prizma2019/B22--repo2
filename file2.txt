@@ -1,0 +1,5 @@
+file2.txt
+Creating new file and typing.
+ggujjh
+
+this is the work for test case 2
